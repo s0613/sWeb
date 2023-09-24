@@ -13,7 +13,8 @@
 ## 사용 기술
 ### 백엔드
 #### 주요 프레임워크 / 라이브러리
-- Java 17 openjdk
+- Java 19 openjdk
+- JAVA 8
 - SpringBoot 3.1.4
 - SpringBoot Security
 - Spring Data JPA
